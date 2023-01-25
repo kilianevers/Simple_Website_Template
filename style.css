@@ -69,9 +69,9 @@ button
 
 .store 
 {
-    color: #000;
     display: flex;
     justify-content: space-evenly;
+    color: #000;
     align-items: center;
     text-align: center;
 }
@@ -208,7 +208,7 @@ a:hover
 .hr 
 {
     border-color: #ff7777;
-    width: auto;
+    width: 100em;
 }
 
 .bold 
@@ -219,4 +219,9 @@ a:hover
 .grey
 {
     color: #969090;
+}
+
+.middle
+{
+    text-align: center;
 }
